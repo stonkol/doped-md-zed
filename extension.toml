@@ -1,0 +1,8 @@
+id = "dope-markdown"
+name = "Dope Markdown"
+version = "0.0.1"
+schema_version = 1
+authors = ["stonkol <rea.egy7b@silomails.com>"]
+description = "Extend the native markdown syntax, with better header support and more configurations"
+repository = "https://github.com/stonkol/doped-md-zed"
+zed_extension_api = "v0.3.0"
